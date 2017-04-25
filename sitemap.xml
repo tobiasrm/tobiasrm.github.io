@@ -1,26 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  
-  <url>
-    <loc>https://tobiasrm.github.io/#about</loc>
-  </url>
-  
-  <url>
-    <loc>https://tobiasrm.github.io/#cv</loc>
-  </url>
-  
-  <url>
-    <loc>https://tobiasrm.github.io/#publications</loc>
-  </url>
-  
-  <url>
-    <loc>https://tobiasrm.github.io/#contact</loc>
-  </url>
-  
-  <url>
-    <loc>https://tobiasrm.github.io/#</loc>
-    <priority>0</priority>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://tobiasrm.github.io/en/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://tobiasrm.github.io/de/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>
