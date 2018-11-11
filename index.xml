@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Tobias R. Mayer</title>
+    <link>https://tobiasrm.github.io/</link>
+    <description>Recent content on Dr. Tobias R. Mayer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://tobiasrm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://tobiasrm.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tobiasrm.github.io/about/</guid>
+      <description>Specialist in Distributed Secure Systems  Currently I am currently working as Head of IT Architecture for Verimi, contributing to the overall objective to give users back the control over their secure identity. Specifically, I am involved in IT/Cloud architecture decisions, security/risk assessments, technology evaluations and the continuous improvement of the tech-team. In my opinion, Verimi is worldwide unique and offers users the chance of a secure digital identity and sovereignty over their own data.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://tobiasrm.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tobiasrm.github.io/cv/</guid>
+      <description>Professional Experience With specialization in secure distributed systems I gained experiences coordination, analysis, research &amp;amp; development activities in French, German and international institutes, all being international &amp;amp; multicultural environments:   Since 2018: Head of IT Architecture Verimi, Berlin, Germany
+Main activities: Contribute to improving the tech-team, IT/cloud architecture decisions, security &amp;amp; risk analyses, making developers having fun at their job  2016 &amp;ndash; 2018: Software architect &amp;amp; engineer (R&amp;amp;D, &amp;ldquo;Blockchain&amp;rdquo; specialization) LIRIS Lab, INSA de Lyon, France</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://tobiasrm.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tobiasrm.github.io/publications/</guid>
+      <description>Deliverable D2.2: Incremental report on provenance, trust and reputation models – Technical Realization (network &amp; storage layer), T. R. Mayer. Project Report (WP1 Value Assessment), Project “Linked Data for Prescriptive Analytics: Application to Fraud Detection, Value Assessment” with Atos/Worldline industrial partner, 03/2018 (confidential, not publicly accessible). Credit-based Reputations for Identity Management with Blockchain and Flow Networks, T. R. Mayer, O. Hasan, and L. Brunie. Whitepaper proposal, 4th Rebooting-the-Web-of-Trust Workshop, Paris, 04/2017.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tobiasrm.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tobiasrm.github.io/contact/</guid>
+      <description>You want to contact me? That&amp;rsquo;s great! Write me an email and I come back to you as soon as possible.  -- </description>
+    </item>
+    
+  </channel>
+</rss>
