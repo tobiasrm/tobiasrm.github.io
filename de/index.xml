@@ -5,11 +5,7 @@
     <link>https://tobiasrm.github.io/de/</link>
     <description>Recent content on Dr. Tobias R. Mayer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://tobiasrm.github.io/de/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://tobiasrm.github.io/de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Über mich</title>
       <link>https://tobiasrm.github.io/de/about/</link>
@@ -21,13 +17,13 @@ Vorher Vor BEWATEC war ich als IT Security Analyst bei Verimi involviert in den 
     </item>
     
     <item>
-      <title>Lebenslauf</title>
-      <link>https://tobiasrm.github.io/de/cv/</link>
+      <title>Expertise</title>
+      <link>https://tobiasrm.github.io/de/expertise/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tobiasrm.github.io/de/cv/</guid>
-      <description>Berufliche Erfahrungen Mit Spezialisierung auf sichere verteilte Systemeumfassen meine Erfahrungen u.a. Koordinierung, Analyse, Forschung &amp;amp; (Software-)Entwicklung in nationalen (DE &amp;amp; FR) sowie internationalen (IARC/WHO) Instituten, typischerweise dreisprachig (EN, FR, DE) und im internationalen/multikulturellen Kontext:
- Seit 07/2020: Senior IT Security Engineer BEWATEC ConnectedCare, Berlin, Deutschland Gesamtheitliche Planung und Umsetzung von IT Sicherheit, z.B. Erarbeiten von Sicherheitskonzepten, Planung &amp;amp; Begleitung von Pentests, shift left security, Training. 2019 &amp;ndash; 2020 : IT Security Analyst** Verimi, Berlin, Deutschland</description>
+      <guid>https://tobiasrm.github.io/de/expertise/</guid>
+      <description>Zertifizierungen EC-Council &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;  Ethical Hacker &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;  Encryption Specialist &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;  SOC Analyst Weitere  Datenschutzbeauftrager (TÜV) gemäß DSGVO und BDSG-neu (TUEV-NORD) [Zertifikat]  - weitere Infos siehe Kursbeschreibung  Berufliche Erfahrungen Mit Spezialisierung auf sichere verteilte Systemeumfassen meine Erfahrungen u.a. Koordinierung, Analyse, Forschung &amp;amp; (Software-)Entwicklung in nationalen (DE &amp;amp; FR) sowie internationalen (IARC/WHO) Instituten, typischerweise dreisprachig (EN, FR, DE) und im internationalen/multikulturellen Kontext:
+ Seit 07/2020: Senior IT Security Engineer BEWATEC ConnectedCare, Berlin, Deutschland Gesamtheitliche Planung und Umsetzung von IT Sicherheit, z.</description>
     </item>
     
     <item>

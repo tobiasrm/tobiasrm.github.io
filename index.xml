@@ -5,11 +5,7 @@
     <link>https://tobiasrm.github.io/</link>
     <description>Recent content on Dr. Tobias R. Mayer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://tobiasrm.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://tobiasrm.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://tobiasrm.github.io/about/</link>
@@ -21,13 +17,13 @@ Before I was involved as IT Security Analyst at Verimi in the areas of security,
     </item>
     
     <item>
-      <title>CV</title>
-      <link>https://tobiasrm.github.io/cv/</link>
+      <title>Expertise</title>
+      <link>https://tobiasrm.github.io/expertise/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tobiasrm.github.io/cv/</guid>
-      <description>Professional Experience With specialization in secure distributed systemsI gained experiences coordination, analysis, research &amp;amp; development activities in French, German and international institutes, all being international &amp;amp; multicultural environments:
- Seit 07/2020: Senior IT Security Engineer BEWATEC ConnectedCare, Berlin, Germany Overall planning and implementation of IT security, e.g. development of security concepts, planning and monitoring of pentests, shift left security, training. 2019 &amp;ndash; 2020: IT Security Analyst Verimi, Berlin, Germany</description>
+      <guid>https://tobiasrm.github.io/expertise/</guid>
+      <description>Certifications EC-Council  &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;  Ethical Hacker &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;  Encryption Specialist &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;  SOC Analyst Other  Datenschutzbeauftrager (TÜV) gemäß DSGVO und BDSG-neu (TUEV-NORD) [Certificate]  &amp;ndash; more info see course description (German-only)  Professional Experience With specialization in secure distributed systemsI gained experiences coordination, analysis, research &amp;amp; development activities in French, German and international institutes, all being international &amp;amp; multicultural environments:
+ Seit 07/2020: Senior IT Security Engineer BEWATEC ConnectedCare, Berlin, Germany Overall planning and implementation of IT security, e.</description>
     </item>
     
     <item>
